@@ -3,54 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://abirdinthecity.de/post/lorem1/</loc>
+    <loc>https://abirdinthecity.de/post/lorem1/</loc>
     <lastmod>2019-02-27T22:36:10+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://abirdinthecity.de/post/lorem/</loc>
+    <loc>https://abirdinthecity.de/post/lorem/</loc>
     <lastmod>2019-02-27T22:36:10+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://abirdinthecity.de/post/</loc>
+    <loc>https://abirdinthecity.de/post/</loc>
     <lastmod>2019-02-27T22:13:49+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://abirdinthecity.de/</loc>
+    <loc>https://abirdinthecity.de/</loc>
     <lastmod>2019-02-27T18:40:22+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://abirdinthecity.de/about/</loc>
+    <loc>https://abirdinthecity.de/about/</loc>
     <lastmod>2019-02-27T18:39:57+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://abirdinthecity.de/categories/</loc>
+    <loc>https://abirdinthecity.de/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://abirdinthecity.de/contact/</loc>
+    <loc>https://abirdinthecity.de/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://abirdinthecity.de/tags/</loc>
+    <loc>https://abirdinthecity.de/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
